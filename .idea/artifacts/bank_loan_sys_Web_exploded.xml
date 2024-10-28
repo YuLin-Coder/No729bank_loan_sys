@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bank_loan_sys:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/bank_loan_sys_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bank_loan_sys/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bank_loan_sys" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="module" name="xmlbeans-2.6.0.jar" module-name="bank_loan_sys" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

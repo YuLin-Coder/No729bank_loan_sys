@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/load/controller/bank/BLoadApplyInfoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/controller/bank/BSchoolInfoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/controller/bank/BStudentInfoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/controller/school/SCLoadApplyInfoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/controller/student/STLoadApplyInfoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/controller/student/STRemoneyInfoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/service/impl/BankInfoServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/service/impl/LoadApplyInfoServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/service/impl/RemoneyInfoServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/service/impl/SchoolInfoServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/load/service/impl/StudentInfoServiceImpl.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
